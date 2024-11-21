@@ -6,6 +6,8 @@ NovaBoard is a macOS app built with SwiftUI that automatically saves any text th
 - Automatically saves any text copied to the clipboard.
 - View your saved text snippets from the menu bar.
 - Quickly copy any saved snippet back to the clipboard.
+- search bar.
+- clear all botton.
 
 ## Requirements
 - macOS 12.0 or later
